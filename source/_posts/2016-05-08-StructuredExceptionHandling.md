@@ -1,7 +1,13 @@
 ---
 title: Structured Exception Handling
 date: 2016-05-08 05:33:42
+categories:
+- Error Handling
 tags:
+- Windows
+- Exception
+- MiniDump
+- SEH
 ---
 ### 背景
 上一次在 Windows 上用 C/C++ 做正经项目、需要做严格的异常处理和调试的，已经是 5 年前了，那时我还是端游的引擎程序员。

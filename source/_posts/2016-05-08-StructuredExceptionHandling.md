@@ -14,7 +14,7 @@ tags:
 <!-- more -->
 在那以后，经历了移动开发到现在的 C# 开发，都不需要再跟 Windows 的结构化异常处理 ([SEH](https://zh.wikipedia.org/zh/%E7%BB%93%E6%9E%84%E5%8C%96%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86)) 打交道。
 虽说用不上，但看技术文档总有可能碰上，正好最近就有这样的场合，显然我已经把 [《Windows核心编程》](https://book.douban.com/subject/3235659/) 里的细节给忘光光了，只能重新学习下。
-
+***
 
 ### SEH的概念
 把 MSDN 上的[文档](https://msdn.microsoft.com/en-us/library/windows/desktop/ms680657%28v=vs.85%29.aspx) 读了过后，发现最有价值的，还是[这里](https://msdn.microsoft.com/en-us/library/windows/desktop/ms679270%28v=vs.85%29.aspx)。
@@ -203,7 +203,7 @@ tags:
 + C++ 的异常处理可能不是通过 SEH 实现，于是结构化异常抛出时，类析构函数不会被调用。
 + 特定于 Windows 平台。
 
-
+***
 ### 结语
 这是一篇即使放到10年前都不算新的文章，写它，更算是把我学习的结果记下来，以及刻意的丰富下博客内容吧。
 

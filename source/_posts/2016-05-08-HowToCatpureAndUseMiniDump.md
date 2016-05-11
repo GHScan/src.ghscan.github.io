@@ -1,5 +1,5 @@
 ---
-title: MiniDump文件的多种创建和使用方法
+title: MiniDump的创建和使用
 date: 2016-05-08 20:16:10
 categories:
 - Error Handling

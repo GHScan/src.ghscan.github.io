@@ -1,5 +1,5 @@
 ---
-title: 怎样在.Net中查找特定对象的所有根路径
+title: 在.Net中查找对象的根路径
 date: 2016-05-08 21:34:24
 categories:
 - VirtualMachine

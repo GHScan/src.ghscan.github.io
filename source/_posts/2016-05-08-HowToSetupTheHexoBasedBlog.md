@@ -1,5 +1,5 @@
 ---
-title: 怎么用GithubPages+Hexo+NexT搭建博客
+title: 用GithubPages+Hexo+NexT搭建博客
 date: 2016-05-08 04:15:18
 categories:
 - Web

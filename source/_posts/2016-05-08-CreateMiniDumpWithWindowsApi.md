@@ -1,5 +1,5 @@
 ---
-title: 用MiniDumpWriteDump来创建MiniDump
+title: 使用MiniDumpWriteDump
 date: 2016-05-08 18:59:44
 categories:
 - Error Handling
